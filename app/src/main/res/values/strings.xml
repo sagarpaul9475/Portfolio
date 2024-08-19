@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sagar</string>
+    <string name="lorem_text">I am an app developer and programmer skilled in creating mobile applications and writing efficient code across various platforms. You have expertise in working with Android Studio, Kotlin, Java, Firebase integration, and more, building functional and user-friendly apps.</string>
+    <string name="job_name">App Developer &amp; Programmer</string>
+    <string name="lorem_text2">I am a computer science engineer from GLA University, combining your programming knowledge with your experience in app development to create innovative solutions and impactful projects.</string>
+    <string name="name">Sagar\nPaul</string>
+    <string name="current_job_post">Current Job Post</string>
+    <string name="diploma">Computer Science Engineering</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_text1">Hospital managemnt website\n</string>
+    <string name="lorem_text3">flappy bird game\n</string>
+    <string name="lorem_text4">weather application\n</string>
+    <string name="lorem_text5">News App</string>
+    <string name="lorem_text6">Ai app using api\n</string>
+    <string name="lorem_text8">ChatStar: A chat application integrating Firebase Authentication, real-time database, and message handling with custom notifications and a dynamic UI using Jetpack Compose.\nUnique Bedtime Stories: Mobile app that generates personalized bedtime stories for children, using creative storytelling algorithms to enhance user experience.\nFlappy Bird Game: Built a Flappy Bird clone, focusing on smooth physics for bird movement and game state management using Kotlin.\nMusic Player App: Developed a full-featured music player with song fetching using MediaStore, playlist management, and seamless transitions between tracks.\nNotes App: Created a Notes app using Firebase Firestore for CRUD operations, featuring a user-friendly interface for adding, editing, and viewing notes.\nWeather App: Developed a weather app with real-time weather data integration using open APIs, presented in a modern UI built in Kotlin.\nNews App: Built a news aggregation app integrating APIs to fetch and display the latest news, designed with a responsive and minimalistic UI.</string>
+    <string name="lorem_text13">I’m excited to share that I’ve built a comprehensive website for a Hotel Management System, designed to streamline hotel operations and enhance user experience. Our team, Bug Busters, will also be participating in the 2024 Smart India Hackathon (SIH), where we’ll showcase this project and compete on a national stage. Looking forward to the challenge and the opportunity to innovate!</string>
+    <string name="devraj_singh">Devraj Singh</string>
+
+</resources>
